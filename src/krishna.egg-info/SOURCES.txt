@@ -1,0 +1,10 @@
+setup.py
+src/krishna/__init__.py
+src/krishna/main.py
+src/krishna.egg-info/PKG-INFO
+src/krishna.egg-info/SOURCES.txt
+src/krishna.egg-info/dependency_links.txt
+src/krishna.egg-info/entry_points.txt
+src/krishna.egg-info/not-zip-safe
+src/krishna.egg-info/requires.txt
+src/krishna.egg-info/top_level.txt
